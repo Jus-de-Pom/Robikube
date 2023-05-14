@@ -1,0 +1,3 @@
+[submodule "Robikube/vendor/spdlog"]
+	path = Robikube/vendor/spdlog
+	url = https://github.com/gabime/spdlog
